@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ClickToEat.Services.Identity.props" />
+</Project>

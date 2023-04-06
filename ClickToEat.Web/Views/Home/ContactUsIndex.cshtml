@@ -1,0 +1,90 @@
+﻿@model ClickToEat.Web.Models.ContactViewModel
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+
+<style>
+    body {
+        background-color: lightsteelblue;
+    }
+    .ContactUsDiv {
+        display: flex;
+        justify-content: space-between;
+        margin: 40px;
+        
+    }
+    h2 {
+        text-align:center;
+    }
+</style>
+
+<div class="ContactUsDiv">
+    
+        <div class="col-md-6">
+            <h2>ContactUs</h2>
+            <div>
+                @if (ViewBag.Message == null)
+                {
+                    <div>
+                        <form method="post">
+                            <div class="form-group">
+                                <label asp-for="Name">Name</label>
+                                <input asp-for="Name" class="form-control" />
+                                <span asp-validation-for="Name"
+                                      class="text-muted"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Email">Email</label>
+                                <input asp-for="Email" class="form-control" />
+                                <span asp-validation-for="Email"
+                                      class="text-muted"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Subject">Subject</label>
+                                <input asp-for="Subject" class="form-control" />
+                                <span asp-validation-for="Subject"
+                                      class="text-muted"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Message">Message</label>
+                                <textarea rows="5" cols="15"
+                                          asp-for="Message" class="form-control"></textarea>
+                                <span asp-validation-for="Message"
+                                      class="text-muted"></span>
+                            </div>
+                            <div>
+                                <button type="submit"
+                                        class="btn btn-success">
+                                    Send
+                                </button>
+                            </div>
+
+                        </form>
+                    </div>
+                }
+            </div>
+
+            <div>
+                <div>
+                    @if (ViewBag.Message != null)
+                    {
+                        <div>@ViewBag.Message</div>
+
+
+                    }
+                </div>
+            </div>
+        </div>
+    
+
+    <div class="map">
+        <br />
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3014.2266733407337!2d21.15798153158071!3d42.661353108586354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x13549ee605110927%3A0x9365bfdf385eb95a!2sPristina!5e1!3m2!1sen!2s!4v1657062144736!5m2!1sen!2s" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+
+</div>

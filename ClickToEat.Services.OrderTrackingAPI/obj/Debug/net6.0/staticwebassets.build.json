@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gZs4aaWL3HyHnhXj3g1PuV/8Mzoa8WiHw+48gaB6dKs=",
+  "Source": "ClickToEat.Services.OrderTrackingAPI",
+  "BasePath": "_content/ClickToEat.Services.OrderTrackingAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

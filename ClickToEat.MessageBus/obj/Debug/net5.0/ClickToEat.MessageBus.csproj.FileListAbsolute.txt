@@ -1,0 +1,12 @@
+D:\Projects\Lab2ClickToEat\ClickToEat\ClickToEat.MessageBus\bin\Debug\net5.0\ClickToEat.MessageBus.deps.json
+D:\Projects\Lab2ClickToEat\ClickToEat\ClickToEat.MessageBus\bin\Debug\net5.0\ClickToEat.MessageBus.dll
+D:\Projects\Lab2ClickToEat\ClickToEat\ClickToEat.MessageBus\bin\Debug\net5.0\ClickToEat.MessageBus.pdb
+D:\Projects\Lab2ClickToEat\ClickToEat\ClickToEat.MessageBus\obj\Debug\net5.0\ClickToEat.MessageBus.csproj.AssemblyReference.cache
+D:\Projects\Lab2ClickToEat\ClickToEat\ClickToEat.MessageBus\obj\Debug\net5.0\ClickToEat.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Lab2ClickToEat\ClickToEat\ClickToEat.MessageBus\obj\Debug\net5.0\ClickToEat.MessageBus.AssemblyInfoInputs.cache
+D:\Projects\Lab2ClickToEat\ClickToEat\ClickToEat.MessageBus\obj\Debug\net5.0\ClickToEat.MessageBus.AssemblyInfo.cs
+D:\Projects\Lab2ClickToEat\ClickToEat\ClickToEat.MessageBus\obj\Debug\net5.0\ClickToEat.MessageBus.csproj.CoreCompileInputs.cache
+D:\Projects\Lab2ClickToEat\ClickToEat\ClickToEat.MessageBus\obj\Debug\net5.0\ClickToEat.MessageBus.dll
+D:\Projects\Lab2ClickToEat\ClickToEat\ClickToEat.MessageBus\obj\Debug\net5.0\ref\ClickToEat.MessageBus.dll
+D:\Projects\Lab2ClickToEat\ClickToEat\ClickToEat.MessageBus\obj\Debug\net5.0\ClickToEat.MessageBus.pdb
+D:\Projects\Lab2ClickToEat\ClickToEat\ClickToEat.MessageBus\obj\Debug\net5.0\refint\ClickToEat.MessageBus.dll
