@@ -25,3 +25,6 @@ The special functions that the application includes are:
 ![ClickToEat img2](https://user-images.githubusercontent.com/77003400/230631353-5ea07b74-1fbd-45d9-9ef6-6313ecef8db9.PNG)
 ![ClickToEat img3](https://user-images.githubusercontent.com/77003400/230631361-7ecfd6d3-20c2-4a2d-9475-2a6c57aae084.PNG)
 ![ClickToEat img4](https://user-images.githubusercontent.com/77003400/230631363-8834674a-bf17-44f9-a13c-7a9d6c083569.PNG)
+![ClickToEatLoginImg](https://github.com/ermaldobratiqi/ClickToEat-EOrderingFood-Microservices/assets/77003400/81c97ad9-7dad-4d3f-b4c6-009104618f80)
+![ClickToEeatAdminDashboardImg](https://github.com/ermaldobratiqi/ClickToEat-EOrderingFood-Microservices/assets/77003400/81728e07-6691-45f6-a1bd-681644292b89)
+![ClickToEatRegisterImg](https://github.com/ermaldobratiqi/ClickToEat-EOrderingFood-Microservices/assets/77003400/a3eccf32-126a-4a80-85d7-26839162dd36)
